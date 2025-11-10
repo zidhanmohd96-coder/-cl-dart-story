@@ -31,8 +31,8 @@ If Dart isn’t installed yet, follow the official instructions:
 
 ### 2. Clone or Download This Project
 ```bash
-git clone https://github.com/your-username/cl-dart-story.git
-cd cl-dart-story
+git clone https://github.com/your-username/-cl-dart-story.git
+cd -cl-dart-story
 ```
 ### 3. Run the Program
 ```bash
@@ -72,7 +72,7 @@ Enter your hobbies/interests: Coding, Reading
 Thank you, Zidhan Muhammed! 🌸 Your biodata has been created successfully.
 ```
 🗂️ File Structure
-📁 dart-biodata-generator
+📁 -cl-dart-story
  ┣ 📄 biodata.dart
  ┣ 📄 README.md
 👨‍💻 Author
