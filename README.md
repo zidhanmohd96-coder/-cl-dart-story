@@ -34,7 +34,7 @@ If Dart isn’t installed yet, follow the official instructions:
 git clone https://github.com/your-username/cl-dart-story.git
 cd cl-dart-story
 ```
-3. Run the Program
+### 3. Run the Program
 ```bash
 dart run biodata.dart
 ```
