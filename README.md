@@ -33,13 +33,13 @@ If Dart isn’t installed yet, follow the official instructions:
 ```bash
 git clone https://github.com/your-username/cl-dart-story.git
 cd cl-dart-story
-3. Run the Program
-bash
-Copy code
+```
+###3. Run the Program
+```bash
 dart run biodata.dart
+```
 🧠 Example Output
-yaml
-Copy code
+```
 🌿 Welcome to the Biodata Generator 🌿
 --------------------------------------
 Enter your full name: Zidhan Muhammed
@@ -68,22 +68,13 @@ Enter your hobbies/interests: Coding, Reading
 💡 Hobbies/Interests:   Coding, Reading
 =========================================
 🌟 Interest Group: Mobile Development
-📌 Hashtag: #cl-dart-story
-💼 Focus Area: Skill Development
 =========================================
 Thank you, Zidhan Muhammed! 🌸 Your biodata has been created successfully.
+```
 🗂️ File Structure
-Copy code
 📁 dart-biodata-generator
  ┣ 📄 biodata.dart
  ┣ 📄 README.md
-💡 Future Enhancements
-Save biodata to a text or PDF file automatically
-
-Add color styling for terminal output
-
-Add form validation for email and phone number
-
 👨‍💻 Author
 Zidhan Muhammed
 Interest Group: Mobile Development
